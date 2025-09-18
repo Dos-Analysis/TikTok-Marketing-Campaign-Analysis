@@ -23,7 +23,7 @@
 
 ## Overview
 I analyzed public TikTok channel data for **France (2024)** to help a marketing team pick the **right creators** for paid collaborations.  
-The result is an **interactive Power BI dashboard** plus **clear recommendations** with simple ROI estimates in **euros (€)**.
+The results are presented in an **interactive Power BI dashboard** plus **clear recommendations** with simple ROI estimates in **euros (€)**.
 
 ## Objective
 Pick creators based on what actually moves the needle:
@@ -56,7 +56,13 @@ Short GIF showing interactivity:
 
 ---
 
-## Answers to the 6 questions
+## To understand what dashboard components I require, I chose to address them in the following 6 questions while providing key takeaways after each answer;
+1) Who are the top 10 Tiktokers with the most subscribers? 
+2) Which 3 channels have uploaded the most videos?  
+3) Which 3 channels have the most views?  
+4) Which 3 channels have the highest average views per video?
+5) Which 3 channels have the highest views per subscriber ratio?
+6) Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 ### 1) Top 10 creators by **subscribers**
 | Name | Subscribers | Avg views/video |
@@ -131,7 +137,7 @@ Short GIF showing interactivity:
 
 ---
 
-## Recommendations (plain English)
+## Recommendations
 - For **maximum per-post impact**: start with **Zinidin zidan** or **The Sun King**; also consider **Oh My Goal – France** for premium launches.  
 - For **consistent reach with a large base**: **Tibo Inshape** is a safe pick; **That French Guy** often delivers **better per-post ROI**.  
 - For a **10-video series**: **Thomas Rossier** performs best on expected net return; don’t fund series where average views can’t cover costs.  
@@ -173,8 +179,8 @@ Assumptions used for quick comparisons: **€5 price**, **2% conversion**, **€
 ---
 
 ## Why this project matters
-I turned a raw dataset into **clear decisions**. The dashboard shows **who to pick and why**, and this README translates metrics into **business outcomes in €** so anyone can follow and act.
-
+I turned a raw dataset into **clear decisions**. The dashboard shows **who to pick and why**.By connecting **TikTok metrics** with **ROI calculations**, I show how marketing teams can choose the right influencers with confidence.
+It highlights my ability to bridge **data** and **business decisions**, driving strategies that **save costs** and **maximize impact**.
 ---
 
 ## Links
