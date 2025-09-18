@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Data Portfolio: Excel to Power BI
-description: From Excel to SQL Server to Power BI — TikTok Marketing Campaign Analysis (France 2024).
+title: "Data Portfolio: Excel to Power BI"
+description: "From Excel to SQL Server to Power BI — TikTok Marketing Campaign Analysis (France 2024)."
 ---
 
 ![Pipeline](../assets/portfolio-hero.png)
@@ -17,4 +17,3 @@ description: From Excel to SQL Server to Power BI — TikTok Marketing Campaign 
 - [Simple ROI checks (€)](../README.md#simple-roi-checks-€)
 - [Why this project matters](../README.md#why-this-project-matters)
 - [Links](../README.md#links)
-
