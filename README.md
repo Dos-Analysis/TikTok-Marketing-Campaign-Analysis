@@ -1,6 +1,6 @@
 # TikTok Marketing Campaign Analysis (France · 2024)
 
-![Portfolio banner](assets/portfolio-hero.png)
+![Portfolio banner](Assets/Images/portfolio-hero.png)
 
 > **Live portfolio:** https://dos-analysis.github.io/TikTok-Marketing-Campaign-Analysis/  
 > **Repository:** https://github.com/Dos-Analysis/TikTok-Marketing-Campaign-Analysis
@@ -48,7 +48,7 @@ Pick creators based on what actually moves the needle:
 ## Dashboard
 Screenshot (with **Tibo Inshape** selected — ranked #1 by subscribers in this dataset):
 
-![Dashboard: Tibo Inshape selected](assets/dashboard_tibo_inshape.png)
+![Dashboard: Tibo Inshape selected](Assets/Images/Top_Tiktokers_page-0001.jpg)
 
 Short GIF showing interactivity:
 
