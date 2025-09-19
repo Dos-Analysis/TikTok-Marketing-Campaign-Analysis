@@ -64,6 +64,8 @@ Short GIF showing interactivity:
 5) Which 3 channels have the highest views per subscriber ratio?
 6) Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
+---
+
 ### 1) Top 10 creators by **subscribers**
 | Name | Subscribers | Avg views/video |
 |:--|--:|--:|
@@ -181,6 +183,7 @@ Assumptions used for quick comparisons: **€5 price**, **2% conversion**, **€
 ## Why this project matters
 I turned a raw dataset into **clear decisions**. The dashboard shows **who to pick and why**.By connecting **TikTok metrics** with **ROI calculations**, I show how marketing teams can choose the right influencers with confidence.
 It highlights my ability to bridge **data** and **business decisions**, driving strategies that **save costs** and **maximize impact**.
+
 ---
 
 ## Links
