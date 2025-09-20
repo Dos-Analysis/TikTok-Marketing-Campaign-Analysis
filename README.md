@@ -149,6 +149,7 @@ Short GIF showing interactivity:
 
 ## Simple ROI checks (€)
 Assumptions used for quick comparisons: **€5 price**, **2% conversion**, **€50k** one-off video fee, or **10×€5k** for a series.
+![ROI Summaries](Assets/Images/roi_checks_summary_sustainable.png)
 
 ### A) Picking by subscribers (one-off video)
 | Name | Avg views/video (M) | Units/video | Revenue/video | Net/video |
